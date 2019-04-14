@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## General
 
-You can use the [editor on GitHub](https://github.com/LabZDjee/Usual-Pointers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- <a href="https://stackoverflow.com" target="_blank">stackoverflow</a>
+- <a href="https://github.com" target="_blank">github</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">MDN CSS</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">MDN javascript</a>
+- <a href="https://www.w3schools.com" target="_blank">w3schools</a>
+- <a href="https://devdocs.io" target="_blank">devdocs.io</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Special stuff
 
-### Markdown
+- <a href="https://getbootstrap.com" target="_blank">bootstrap</a>
+- <a href="https://daringfireball.net/projects/markdown/syntax" target="_blank">markdown (daring fireball)</a>
+- <a href="https://www.regular-expressions.info/refquick.html" target="_blank">regular-expression.info</a>
+- Axel Rauschmayer: <a href="http://exploringjs.com/es6/index.html" target="_blank">Exploring ES2015/ES6</a> <a href="http://exploringjs.com/es2016-es2017/index.html" target="_blank">Exploring ES2016-2017</a> <a href="http://exploringjs.com/es2018-es2019/toc.html" target="_blank">Exploring ES2018-2019</a>
+- <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">you don't know javascript (Kyle Simpson/getify)</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## vue.js
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LabZDjee/Usual-Pointers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- <a href="https://vuejs.org" target="_blank">vue js</a>
+- <a href="https://bootstrap-vue.js.org" target="_blank">bootstrap vue</a>
