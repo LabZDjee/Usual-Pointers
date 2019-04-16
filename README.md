@@ -1,4 +1,4 @@
-## End if Life!
+## End of Life!
 
 This project is cancelled and replaced by _front-dev-pointers_ project
 
